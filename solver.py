@@ -9,7 +9,7 @@ class Solution(object):
         Initializing funtion for Solution class
         """
         self.grid = grid
-        self.options = list(range(1,10)) # Options to input in grid
+        self.options = list(range(1,10)) # Options to input in gridg
     
     def valid_idx(self, row_idx, col_idx, num):
         """
