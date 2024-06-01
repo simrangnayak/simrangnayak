@@ -70,5 +70,5 @@ class Solution(object):
                     # If there are no valid number possibilities, sudoku is not valid
                     return False
         
-        # This only returns true if the sudoku is filled and valid
+        # This only returns true if the sudoku is valid
         return True

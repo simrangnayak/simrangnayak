@@ -18,7 +18,7 @@ def run():
     # If yes, ask player to enter 
     if player.lower() == 'y':
         response = input("Please provide a 9x9 sudoku grid, in nested list format (let unfilled cells have 0): ")
-        grid = literal_eval(response)
+        grid = literal_eval(response) # Turns str representation into grid
     
     # If no, extract sudoku from dosuku website
     else:
