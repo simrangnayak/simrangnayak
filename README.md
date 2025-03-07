@@ -5,6 +5,7 @@ I'm a data scientist and current MS in Statistics (Data Science) student at Stan
 - 🟨 NYT Connections Solver – Using NLP and machine learning to classify words into thematic groups and improve puzzle-solving accuracy.
 - ⌚ Apple Watch Data Analysis – Investigating my activity trends and health insights using various ML models.
 - 🏢 Elevator Simulation – Simulating and optimizing elevator systems.
+- 🎮 Sudoku Solver Game – Solving 9x9 Sudoku puzzles with a recursive backtracking algorithm, supporting custom input or random puzzles fetched from the Dosuku API.
 
 💡 Technical Skills: Python, R, SQL, Machine Learning, NLP, Data Visualization
 🚀 Always exploring new data-driven challenges! Let's connect.
